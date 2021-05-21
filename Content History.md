@@ -14,10 +14,10 @@
 - Hilbert Spotlight Scout
 #### Events
 - Story Event: Reach For The Top
-- Rock Type: Training Event
-- Grass Type: Training Event
+- Rock-Type Training Event
+- Grass-Type Training Event
 - New EX Challenge: Barry
-- Water Type: Training Event
+- Water-Type Training Event
 - New EX Challenge: Flannery
 
 ### v1.2.0
@@ -33,9 +33,9 @@
 #### Events
 - Story Event: The Girl in Black and White
 - New EX Challenge: Korrina
-- Electric Type: Training Event
+- Electric-Type Training Event
 - New EX Challenge: Pryce
-- Grass Type: Training Event
+- Grass-Type Training Event
 
 ### v1.3.0
 *Version lasted: Late October - Late November 2019*
@@ -53,8 +53,8 @@
 - Story Event: The Importance of Elegance
 - New Evolution Sync Pair Stories!
 - Main Story: Chapters 19 - 21
-- Ice Type: Training Event
-- Water Type: Training Event
+- Ice-Type Training Event
+- Water-Type Training Event
 
 ### v1.4.0
 *Version lasted: Late November - Late December 2019*
@@ -99,9 +99,9 @@
 - Legendary Event: The Beast That Devours The Sun
 - Training Events
 - New EX Challenge: Hau
-- Fire Type: Training Event
+- Fire-Type Training Event
 - New EX Challenge: Janine
-- Ice Type: Training Event
+- Ice-Type Training Event
 
 ### v1.6.0
 *Version lasted: Late January - Late February 2020*
@@ -121,10 +121,10 @@
 - Steven Poké Fair Scout
 #### Events
 - Legendary Event: The Dragon That Rules The Sky
-- Dragon Type: Training Event
-- Grass Type: Training Event
+- Dragon-Type Training Event
+- Grass-Type Training Event
 - Story Event: The Strongest There Is
-- Team Up With: Professor Oak & Mew!
+- Team Up With Professor Oak & Mew!
 
 ### v1.7.0
 *Version lasted: Late February - Late March 2020*
@@ -151,9 +151,9 @@
 - New Evolution Sync Pair Stories!
 - Battle Villa: Wave 1
 - Story Event: Shining Star
-- Electric Type: Training Event
+- Electric-Type Training Event
 - Legendary Event: Lurking Shadow
-- Ghost Type: Training Event
+- Ghost-Type Training Event
 
 ### v1.8.0
 *Version lasted: Late March - Late April*
@@ -161,7 +161,7 @@
 - Guzma & Golisopod (Physical Striker Spotlight)
 - Plumeria & Salazzle (Special Striker Spotlight)
 - Clemont & Heliolisk (Tech Spotlight)
-- #### Sync Grids Expansions
+#### Sync Grids Expansions
 - Viola & Surskit
 - Caitlin & Reuniclus
 - Calem & Meowstic
@@ -171,11 +171,11 @@
 - Caitlin Spotlight Scout
 #### Events
 - Story Event: Team Skull Crash Course
-- Bug Type: Training Event
+- Bug-Type Training Event
 - Legendary Event: The Beast That Devours The Sun
 - Solo Event: Flying Types Incoming!
 - Battle Villa Wave 2
-- Psychic Type: Training Event
+- Psychic-Type Training Event
 
 ### v1.9.0
 *Version lasted: Late April - Late May 2020*
@@ -196,10 +196,10 @@
 - Jasmine Spotlight Scout
 #### Events
 - Legendary Event: Pure Hearts and Rainbow Wings
-- Blissful: Bonanza
-- Fighting Type: Training Event
+- Blissful Bonanza
+- Fighting-Type Training Event
 - Battle Villa: Wave 3
-- Flying Type: Training Event
+- Flying-Type Training Event
 
 ### v1.10.0
 *Version lasted: Late May - Late June 2020*
@@ -219,12 +219,12 @@
 #### Events
 - Story Event: The Star of The Contest
 - Battle Villa: Wave 4
-- Water Type: Training Event
+- Water-Type Training Event
 - Main Story: New Chapters!
 - Legendary Arena: Entei
 - Story Event: The Importance of Elegance
 - Special Event: Challenge Unova!
-- Steel Type: Training Event
+- Steel-Type Training Event
 
 ### v1.11.0
 *Version lasted: Late June - Late July 2020*
@@ -246,13 +246,13 @@
 - Guzma Spotlight Scout
 #### Events
 - Story Event: Serena's Dessert Party!
-- Fire Type: Training Event
+- Fire-Type Training Event
 - Battle Villa: Wave 5
 - Legendary Arena: Cobalion
 - Special Event: Double Trouble
-- Poison Type: Training Event
+- Poison-Type Training Event
 - Solo Event: Morty's Secret Ghost Training
-- Bug Type: Egg Event
+- Bug-Type Egg Event
 
 ### v1.12.0
 *Version lasted: Late July - Late August 2020*
@@ -272,7 +272,7 @@
 - Lance Poké Fair Scout
 #### Events
 - Story Event: Summer Superstars
-- Rock Type: Egg Event
+- Rock-Type Egg Event
 - Battle Villa: Wave 6
 - Legendary Event: New World Dilemma
 - Legendary Arena: Latios
@@ -304,11 +304,11 @@
 - Guzma and Burgh Spotlight Scout
 - Lillie Spotlight Scout
 #### Events
-- Team Up With: Professor Oak & Mew!
+- Team Up With Professor Oak & Mew!
 - Solo Event: Training with Legends
 - Champion Stadium: Kanto Challenge
 - Battle Villa: Wave 7
-- Grass, Fire and Water Type: Egg Event
+- Grass, Fire and Water-Type Egg Event
 - Story Event: Family Ties
 - Legendary Arena: Azelf
 - Special Event: Blasting Off Again
@@ -343,7 +343,7 @@
 - Main Story: Chapter 28 + Interlude 6
 - Story Event: Fight or Fright
 - Legendary Arena: Cobalion
-- Ice and Fighting Type: Egg Event
+- Ice and Fighting-Type Egg Event
 - Legendary Arena: Latios
 
 ### v2.2.0
@@ -375,12 +375,12 @@
 - Champion Stadium: Kanto Challenge
 - Story Event: Dazzling Dizzying Battle Stage
 - Legendary Event: The Dragon That Rules The Sky
-- Psychic and Poison Type: Egg Event
+- Psychic and Poison-Type Egg Event
 - Legendary Arena: Tapu Bulu
 - Time Trial Event: Race To Victory!
 - Battle Villa: Season 9
 - Main Story: Chapter 27
-- Blissful: Bonanza
+- Blissful Bonanza
 
 ### v2.3.0
 *Version lasted: Late November - Late December 2020*
@@ -407,7 +407,7 @@
 - Legendary Event: The Beast That Devours The Sun
 - Story Event: Deck The Halls
 - Battle Villa: Season 10
-- Fire, Rock and Bug Type: Egg Event
+- Fire, Rock and Bug-Type Egg Event
 - Special Event: Double Trouble
 
 ### v2.4.0
@@ -444,10 +444,10 @@
 - Story Event: Season's Greetings
 - Legendary Event: Pure Hearts and Rainbow Wings
 - Battle Villa: Season 11
-- Electric and Steel Type: Egg Event
+- Electric and Steel-Type Egg Event
 - Legendary Arena: Entei
-- Solo Event: Team - Hoenn Unite!
-- Blissful: Bonanza
+- Solo Event: Team Hoenn Unite!
+- Blissful Bonanza
 
 ### v2.5.0
 *Version lasted: Late January - Late February 2021*
@@ -472,7 +472,7 @@
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: Baking Buddies
-- Fighting, Grass and Rock Type: Egg Event
+- Fighting, Grass and Rock-Type Egg Event
 - Battle Villa: Season 12
 - Legendary Event: Lurking Shadow
 - Legendary Event: Give and Take
@@ -507,8 +507,8 @@
 - Battle Villa: Season 13
 - Legendary Event: New World Dilemma
 - Story Event: Shining Hearts of Dragons
-- Blissful: Bonanza
-- Fairy and Normal Type: Egg Event
+- Blissful Bonanza
+- Fairy and Normal-Type Egg Event
 - Legendary Arena: Latias
 
 ### v2.7.0
@@ -540,9 +540,9 @@
 - Main Story: Chapter 28
 - Legendary Event: The Dragon That Rules The Sky
 - Battle Villa: Season 14
-- Story Event: Trial's on The Isle
+- Story Event: Trials on The Isle
 - Legendary Arena: Tornadus
-- Water- and Electric-Type Egg Event
+- Water and Electric-Type Egg Event
 
 ### v2.8.0
 *Version lasted: Late April - Late May 2021*
@@ -568,18 +568,18 @@
 - Serena, Hilda and Ethan Spotlight Scout
 - Super Spotlight Poké Fair Scout
 #### Events
-- Time Trial Event - Eternal Rivals
-- Blissful: Bonanza
-- Battle Villa - Season 15
-- Champion Stadium - Kanto Challenge
-- Legendary Event - Father or Foe
-- Special Event Phase 1 - Weather Alert
-- Legendary Arena - Azelf
-- Solo Event - Splash and Punch
-- Legendary Event - Pure Hearts and Rainbow Wings
-- Fire Type - Egg Event
-- Legendary Arena - Cobalion
-- Special Event Phase 2 - Land & Sea Awaken
-- Story Event - Two Champions
+- Time Trial Event: Eternal Rivals
+- Blissful Bonanza
+- Battle Villa: Season 15
+- Champion Stadium: Kanto Challenge
+- Legendary Event: Father or Foe
+- Special Event Phase 1: Weather Alert
+- Legendary Arena: Azelf
+- Solo Event: Splash and Punch
+- Legendary Event: Pure Hearts and Rainbow Wings
+- Fire Type: Egg Event
+- Legendary Arena: Cobalion
+- Special Event Phase 2: Land and Sea Awaken
+- Story Event: Two Champions
 
 Credits to Jass on Discord for the raw data
