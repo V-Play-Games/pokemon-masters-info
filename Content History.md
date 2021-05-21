@@ -31,7 +31,7 @@
 - Elesa Spotlight Scout
 - Brendan Spotlight Scout
 #### Events
-- Story Event: The Girl in Black & White
+- Story Event: The Girl in Black and White
 - New EX Challenge: Korrina
 - Electric Type: Training Event
 - New EX Challenge: Pryce
@@ -89,7 +89,7 @@
 - Grimsley Spotlight Scout
 - Lance Poké Fair Scout
 - Cynthia Poké Fair Scout
-- 5:star:️ Select Special Scout
+- 5:star: Select Special Scout
 - Ethan Spotlight Scout
 - Leaf Spotlight Scout
 #### Events
@@ -117,7 +117,7 @@
 - Erika & Vileplume
 #### Banners
 - Kukui Spotlight Scout
-- Brendan & Lyra Spotlight Scout
+- Brendan and Lyra Spotlight Scout
 - Steven Poké Fair Scout
 #### Events
 - Legendary Event: The Dragon That Rules The Sky
@@ -140,10 +140,10 @@
 - Grimsley & Liepard
 - Acerola & Palossand
 #### Banners
-- 5:star:️ Select Special Scout
+- 5:star: Select Special Scout
 - Sygna Suit Elesa Spotlight Scout
 - Sygna Suit Red Poké Fair Scout
-- Grimsley & Karen Spotlight Scout
+- Grimsley and Karen Spotlight Scout
 - Sabrina Spotlight Scout
 - Fantina Spotlight Scout
 #### Events
@@ -166,7 +166,7 @@
 - Caitlin & Reuniclus
 - Calem & Meowstic
 #### Banners
-- Guzma & Plumeria Spotlight Scout
+- Guzma and Plumeria Spotlight Scout
 - Clemont Spotlight Scout
 - Caitlin Spotlight Scout
 #### Events
@@ -191,11 +191,11 @@
 #### Banners
 - Wallace Spotlight Scout
 - Cynthia Poké Fair Scout
-- 5:star:️ Select Special Scout
+- 5:star: Select Special Scout
 - Wally Spotlight Scout
 - Jasmine Spotlight Scout
 #### Events
-- Legendary Event: Pure Hearts & Rainbow Wings
+- Legendary Event: Pure Hearts and Rainbow Wings
 - Blissful: Bonanza
 - Fighting Type: Training Event
 - Battle Villa: Wave 3
@@ -237,12 +237,12 @@
 - Koga & Crobat
 #### Banners
 - Serena Spotlight Scout
-- 5:star:️ Select Scout Limited Time Only!
-- Hilda & Ethan Spotlight Scout
-- 5:star:️ Select Special Scout
-- Plumeria & Lucy Spotlight Scout
+- 5:star: Select Scout Limited Time Only!
+- Hilda and Ethan Spotlight Scout
+- 5:star: Select Special Scout
+- Plumeria and Lucy Spotlight Scout
 - Morty Spotlight Scout
-- Fantina & Phoebe Spotlight Scout
+- Fantina and Phoebe Spotlight Scout
 - Guzma Spotlight Scout
 #### Events
 - Story Event: Serena's Dessert Party!
@@ -267,7 +267,7 @@
 #### Banners
 - Lyra Seasonal Scout
 - Steven Seasonal Scout
-- Kukui & Olivia Spotlight Scout
+- Kukui and Olivia Spotlight Scout
 - Sygna Suit Cynthia Poké Fair Scout
 - Lance Poké Fair Scout
 #### Events
@@ -286,7 +286,7 @@
 - Lillie & Clefairy (Support Spotlight)
 - Gladion & Silvally (Tech Spotlight)
 - James & Weezing (Tech F2P)
-#### EX Unlocked & Sync Grids Expansions
+#### EX Unlocked and Sync Grids Expansions
 - Rosa & Snivy (EX Unlocked)
 - Sygna Suit Red & Charizard (EX Unlocked)
 - Ethan & Cyndaquil (Sync Grid Expansion)
@@ -296,19 +296,19 @@
 - Sygna Suit Blue Poké Fair Scout
 - Sygna Suit Leaf Poké Fair Scout
 - Sygna Suit Red Poké Fair Scout
-- 5:star:️ Select Special Scout x11
-- Ethan, Kris & Lyra Spotlight Scout
+- 5:star: Select Special Scout x11
+- Ethan, Kris and Lyra Spotlight Scout
 - Lusamine Spotlight Scout
 - Gladion Spotlight Scout
-- Sabrina & Caitlin Spotlight Scout
-- Guzma & Burgh Spotlight Scout
+- Sabrina and Caitlin Spotlight Scout
+- Guzma and Burgh Spotlight Scout
 - Lillie Spotlight Scout
 #### Events
 - Team Up With: Professor Oak & Mew!
 - Solo Event: Training with Legends
 - Champion Stadium: Kanto Challenge
 - Battle Villa: Wave 7
-- Grass, Fire & Water Type: Egg Event
+- Grass, Fire and Water Type: Egg Event
 - Story Event: Family Ties
 - Legendary Arena: Azelf
 - Special Event: Blasting Off Again
@@ -320,7 +320,7 @@
 - Molayne & Dugtrio (Physical Striker F2P)
 - Hilbert (Fall 2020) & Mightyena (Physical Striker Seasonal)
 - Acerola (Fall 2020) & Mimikyu (Tech Seasonal)
-#### EX Unlocked & Sync Grid Expansions
+#### EX Unlocked and Sync Grid Expansions
 - Elesa & Zebstrika (EX Unlocked & Sync Grid Expansion)
 - Sygna Suit Grimsley & Sharpedo (EX Unlocked)
 - Fantina & Mismagius (Sync Grid Expansion)
@@ -329,12 +329,12 @@
 - Wally & Gallade (EX Unlocked)
 #### Banners
 - Volkner Spotlight Scout
-- Elesa & Clemont Spotlight Scout
-- Wallace & Sygna Suit Grimsley Spotlight Scout
+- Elesa and Clemont Spotlight Scout
+- Wallace and Sygna Suit Grimsley Spotlight Scout
 - Acerola Seasonal Scout
 - Hilbert Seasonal Scout
-- Morty & Fantina Spotlight Scout
-- Wally & Glacia Spotlight Scout
+- Morty and Fantina Spotlight Scout
+- Wally and Glacia Spotlight Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: The Eccentric Electrician
@@ -343,7 +343,7 @@
 - Main Story: Chapter 28 + Interlude 6
 - Story Event: Fight or Fright
 - Legendary Arena: Cobalion
-- Ice & Fighting Type: Egg Event
+- Ice and Fighting Type: Egg Event
 - Legendary Arena: Latios
 
 ### v2.2.0
@@ -353,7 +353,7 @@
 - Alder & Volcarona (Special Striker Poké Fair)
 - Nate & Braviary (Physical Striker Spotlight)
 - Bianca & Musharna (Tech Spotlight)
-#### EX Unlocked & Sync Grids Expansions
+#### EX Unlocked and Sync Grids Expansions
 - Rosa (Holiday 2019) & Delibird (EX Unlocked & Sync Grid Expansion)
 - Siebold (Holiday 2019) & Octillery (Sync Grid Expansion)
 - Olivia & Lycanroc (Sync Grid Expansion)
@@ -362,20 +362,20 @@
 - Steven & Metagross (EX Unlocked)
 #### Banners
 - Lisia Spotlight Scout
-- Olivia & Kukui Spotlight Scout
+- Olivia and Kukui Spotlight Scout
 - Plumeria Spotlight Scout
 - Alder Poké Fair Scout
 - Blue Spotlight Scout
 - Nate Spotlight Scout
 - Bianca Spotlight Scout
-- Rosa & Siebold Seasonal Scout
-- 5:star:️ Select Special Scout x11
-- Cynthia & Steven Poké Fair Scout
+- Rosa and Siebold Seasonal Scout
+- 5:star: Select Special Scout x11
+- Cynthia and Steven Poké Fair Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: Dazzling Dizzying Battle Stage
 - Legendary Event: The Dragon That Rules The Sky
-- Psychic & Poison Type: Egg Event
+- Psychic and Poison Type: Egg Event
 - Legendary Arena: Tapu Bulu
 - Time Trial Event: Race To Victory!
 - Battle Villa: Season 9
@@ -388,15 +388,15 @@
 - Gloria & Zacian (Physical Striker Poké Fair)
 - Skyla (Holiday 2020) & Togekiss (Tech Seasonal)
 - Erika (Holiday 2020) & Comfey (Support Seasonal)
-#### EX Unlocked & Sync Grid Expansions
+#### EX Unlocked and Sync Grid Expansions
 - Iris & Haxorus (EX Unlocked)
 - Jasmine & Steelix (EX Unlocked)
 - Dawn & Turtwig (EX Unlocked)
-- Brendan & Treecko (EX Unlocked & Sync Grid Expansion)
+- Brendan & Treecko (EX Unlocked and Sync Grid Expansion)
 #### Banners
 - Gloria Poké Fair Scout
 - Jasmine Spotlight Scout
-- Dawn & Brendan Spotlight Scout
+- Dawn and Brendan Spotlight Scout
 - Skyla Seasonal Tiered Scout
 - Erika Seasonal Tiered Scout
 - Triple Feature Poké Fair Scout
@@ -407,7 +407,7 @@
 - Legendary Event: The Beast That Devours The Sun
 - Story Event: Deck The Halls
 - Battle Villa: Season 10
-- Fire, Rock & Bug Type: Egg Event
+- Fire, Rock and Bug Type: Egg Event
 - Special Event: Double Trouble
 
 ### v2.4.0
@@ -418,33 +418,33 @@
 - Lillie (New Year 2021) & Ribombee (Support Seasonal)
 - May & Mudkip -> Marshtomp -> Swampert -> Mega Swampert (Tech Spotlight)
 - Mallow & Tsareena (Tech Spotlight)
-#### EX Unlocked & Sync Grid Expansions
+#### EX Unlocked and Sync Grid Expansions
 - Phoebe & Dusclops (Sync Grid Expansion)
 - Sygna Suit Elesa & Rotom (EX Unlocked)
 - Wallace & Milotic (EX Unlocked)
 #### Banners
 - N Poké Fair Scout
-- Kanto & Johto 5:star:️ Guaranteed Scout
-- Hoenn & Sinnoh 5:star:️ Guaranteed Scout
-- Unova 5:star:️ Guaranteed Scout
-- Kalos & Alola 5:star:️ Guaranteed Scout
+- Kanto and Johto 5:star: Guaranteed Scout
+- Hoenn and Sinnoh 5:star: Guaranteed Scout
+- Unova 5:star: Guaranteed Scout
+- Kalos and Alola 5:star: Guaranteed Scout
 - Lance Seasonal Tiered Scout
 - Lillie Seasonal Tiered Scout
-- 5:star:️ Select Special Scout x15
-- 5:star:️ Select Special Scout x25
+- 5:star: Select Special Scout x15
+- 5:star: Select Special Scout x25
 - Double Feature Spotlight Scout
-- Lisia, Wally & Phoebe Spotlight Scout
+- Lisia, Wally and Phoebe Spotlight Scout
 - May Spotlight Scout
-- Wallace & Sygna Suit Grimsley Spotlight Scout
+- Wallace and Sygna Suit Grimsley Spotlight Scout
 - Mallow Spotlight Scout
 #### Events
 - Champion Stadium: Johto Challenge
 - Story Event: The Ideal Formula
 - Legendary Arena: Latios
 - Story Event: Season's Greetings
-- Legendary Event: Pure Hearts & Rainbow Wings
+- Legendary Event: Pure Hearts and Rainbow Wings
 - Battle Villa: Season 11
-- Electric & Steel Type: Egg Event
+- Electric and Steel Type: Egg Event
 - Legendary Arena: Entei
 - Solo Event: Team - Hoenn Unite!
 - Blissful: Bonanza
@@ -465,17 +465,17 @@
 - Serena Seasonal Tiered Scout
 - Lillie Spotlight Scout
 - Dawn Seasonal Tiered Scout
-- Grimsley & Karen Spotlight Scout
+- Grimsley and Karen Spotlight Scout
 - Lysandre Poké Fair Scout
-- Serena & Clemont Spotlight Scout
+- Serena and Clemont Spotlight Scout
 - Piers Spotlight Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: Baking Buddies
-- Fighting, Grass & Rock Type: Egg Event
+- Fighting, Grass and Rock Type: Egg Event
 - Battle Villa: Season 12
 - Legendary Event: Lurking Shadow
-- Legendary Event: Give & Take
+- Legendary Event: Give and Take
 - Legendary Arena: Cresselia
 - Main Story: Interlude 7
 
@@ -486,29 +486,29 @@
 - Marnie & Morpeko (Tech Poké Fair)
 - Iris (Champion) & Hydreigon (Tech Poké Fair)
 - Diantha & Gardevoir -> Mega Gardevoir (Special Striker Poké Fair)
-#### EX Unlocked & Sync Grid Expansions
+#### EX Unlocked and Sync Grid Expansions
 - Skyla & Swanna (EX Unlocked)
 - Korrina & Lucario (EX Unlocked)
 - Cyrus & Palkia (Sync Grid Expansion)
-- Hilbert & Oshawott (EX Unlocked & Sync Grid Expansion)
+- Hilbert & Oshawott (EX Unlocked and Sync Grid Expansion)
 #### Banners
 - Leon Master Fair Scout
 - Marnie Poké Fair Scout
-- 5:star:️ Select Special Scout x11
+- 5:star: Select Special Scout x11
 - Gloria Poké Fair Scout
 - Lisia Spotlight Scout
 - Iris (Champion) Poké Fair Scout
-- Hilbert & Caitlin Spotlight Scout
+- Hilbert and Caitlin Spotlight Scout
 - Diantha Poké Fair Scout
 #### Events
 - Champion Stadium: Johto Challenge
 - Story Event: Champion Time!
-- Solo Event: Yell & Dream
+- Solo Event: Yell and Dream
 - Battle Villa: Season 13
 - Legendary Event: New World Dilemma
 - Story Event: Shining Hearts of Dragons
 - Blissful: Bonanza
-- Fairy & Normal Type: Egg Event
+- Fairy and Normal Type: Egg Event
 - Legendary Arena: Latias
 
 ### v2.7.0
@@ -518,19 +518,19 @@
 - May (Spring 2021) & Lopunny -> Mega Lopunny (Physical Striker Seasonal)
 - Elio & Popplio -> Brionne -> Primarina (Support Spotlight)
 - Selene & Rowlet -> Dartrix -> Decidueye (Physical Striker Spotlight)
-#### EX Unlocked & Sync Grid Expansions
-- Leaf & Eevee (EX Unlocked & Sync Grid Expansion)
+#### EX Unlocked and Sync Grid Expansions
+- Leaf & Eevee (EX Unlocked and Sync Grid Expansion)
 - Zinnia & Rayquaza (Sync Grid Expansion)
 - Guzma & Golisopod (EX Unlocked)
 - Barry & Piplup (EX Unlocked)
 #### Banners
 - May Seasonal Tiered Scout
 - Burgh Seasonal Tiered Scout
-- Leaf & Gladion Spotlight Scout
-- May & Brendan Spotlight Scout
+- Leaf and Gladion Spotlight Scout
+- May and Brendan Spotlight Scout
 - Selene Spotlight Scout
 - Elio Spotlight Scout
-- Guzma & Burgh Spotlight Scout
+- Guzma and Burgh Spotlight Scout
 - N Poké Fair Scout
 - Double Feature Spotlight Scout
 #### Events
@@ -542,7 +542,7 @@
 - Battle Villa: Season 14
 - Story Event: Trial's on The Isle
 - Legendary Arena: Tornadus
-- Water- & Electric-Type Egg Event
+- Water- and Electric-Type Egg Event
 
 ### v2.8.0
 *Version lasted: Late April - Late May 2021*
@@ -551,7 +551,7 @@
 - Bea & Sirfetch'd (Physical Striker Spotlight)
 - Nessa & Drednaw (Tech Spotlight)
 - Ghetsis & Kyurem (Tech F2P)
-#### EX Style Unlocked/Sync Grids Expansions
+#### EX Style Unlocked and Sync Grids Expansions
 - Silver & Ho-oh (Sync Grid Expansion)
 - Burgh & Leavanny (EX Style Unlocked)
 - Grimsley & Liepard (EX Style Unlocked)
@@ -559,13 +559,13 @@
 - Hilda & Tepig (EX Style Unlocked)
 #### Banners
 - Raihan Poké Fair Scout
-- 5:star:️ Special Scout x11
+- 5:star: Special Scout x11
 - Alder Poké Fair Scout
 - Triple Feature Spotlight Scout
 - Piers Spotlight Scout
 - Nessa Spotlight Scout
 - Bea Spotlight Scout
-- Serena, Hilda & Ethan Spotlight Scout
+- Serena, Hilda and Ethan Spotlight Scout
 - Super Spotlight Poké Fair Scout
 #### Events
 - Time Trial Event - Eternal Rivals
@@ -575,8 +575,8 @@
 - Legendary Event - Father or Foe
 - Special Event Phase 1 - Weather Alert
 - Legendary Arena - Azelf
-- Solo Event - Splash & Punch
-- Legendary Event - Pure Hearts & Rainbow Wings
+- Solo Event - Splash and Punch
+- Legendary Event - Pure Hearts and Rainbow Wings
 - Fire Type - Egg Event
 - Legendary Arena - Cobalion
 - Special Event Phase 2 - Land & Sea Awaken
