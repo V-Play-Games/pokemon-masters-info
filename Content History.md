@@ -89,7 +89,7 @@
 - Grimsley Spotlight Scout
 - Lance Poké Fair Scout
 - Cynthia Poké Fair Scout
-- 5star️ Select Special Scout
+- 5:star:️ Select Special Scout
 - Ethan Spotlight Scout
 - Leaf Spotlight Scout
 #### Events
@@ -140,7 +140,7 @@
 - Grimsley & Liepard
 - Acerola & Palossand
 #### Banners
-- 5star️ Select Special Scout
+- 5:star:️ Select Special Scout
 - Sygna Suit Elesa Spotlight Scout
 - Sygna Suit Red Poké Fair Scout
 - Grimsley & Karen Spotlight Scout
@@ -191,7 +191,7 @@
 #### Banners
 - Wallace Spotlight Scout
 - Cynthia Poké Fair Scout
-- 5star️ Select Special Scout
+- 5:star:️ Select Special Scout
 - Wally Spotlight Scout
 - Jasmine Spotlight Scout
 #### Events
@@ -237,9 +237,9 @@
 - Koga & Crobat
 #### Banners
 - Serena Spotlight Scout
-- 5star️ Select Scout Limited Time Only!
+- 5:star:️ Select Scout Limited Time Only!
 - Hilda & Ethan Spotlight Scout
-- 5star️ Select Special Scout
+- 5:star:️ Select Special Scout
 - Plumeria & Lucy Spotlight Scout
 - Morty Spotlight Scout
 - Fantina & Phoebe Spotlight Scout
@@ -296,7 +296,7 @@
 - Sygna Suit Blue Poké Fair Scout
 - Sygna Suit Leaf Poké Fair Scout
 - Sygna Suit Red Poké Fair Scout
-- 5star️ Select Special Scout x11
+- 5:star:️ Select Special Scout x11
 - Ethan, Kris & Lyra Spotlight Scout
 - Lusamine Spotlight Scout
 - Gladion Spotlight Scout
@@ -369,7 +369,7 @@
 - Nate Spotlight Scout
 - Bianca Spotlight Scout
 - Rosa & Siebold Seasonal Scout
-- 5star️ Select Special Scout x11
+- 5:star:️ Select Special Scout x11
 - Cynthia & Steven Poké Fair Scout
 #### Events
 - Champion Stadium: Kanto Challenge
@@ -424,14 +424,14 @@
 - Wallace & Milotic (EX Unlocked)
 #### Banners
 - N Poké Fair Scout
-- Kanto & Johto 5star️ Guaranteed Scout
-- Hoenn & Sinnoh 5star️ Guaranteed Scout
-- Unova 5star️ Guaranteed Scout
-- Kalos & Alola 5star️ Guaranteed Scout
+- Kanto & Johto 5:star:️ Guaranteed Scout
+- Hoenn & Sinnoh 5:star:️ Guaranteed Scout
+- Unova 5:star:️ Guaranteed Scout
+- Kalos & Alola 5:star:️ Guaranteed Scout
 - Lance Seasonal Tiered Scout
 - Lillie Seasonal Tiered Scout
-- 5star️ Select Special Scout x15
-- 5star️ Select Special Scout x25
+- 5:star:️ Select Special Scout x15
+- 5:star:️ Select Special Scout x25
 - Double Feature Spotlight Scout
 - Lisia, Wally & Phoebe Spotlight Scout
 - May Spotlight Scout
@@ -494,7 +494,7 @@
 #### Banners
 - Leon Master Fair Scout
 - Marnie Poké Fair Scout
-- 5star️ Select Special Scout x11
+- 5:star:️ Select Special Scout x11
 - Gloria Poké Fair Scout
 - Lisia Spotlight Scout
 - Iris (Champion) Poké Fair Scout
@@ -559,7 +559,7 @@
 - Hilda & Tepig (EX Style Unlocked)
 #### Banners
 - Raihan Poké Fair Scout
-- 5star️ Special Scout x11
+- 5:star:️ Special Scout x11
 - Alder Poké Fair Scout
 - Triple Feature Spotlight Scout
 - Piers Spotlight Scout
