@@ -261,7 +261,7 @@
 - Lyra (Summer 2020) & Jigglypuff (Special Striker Seasonal)
 - Sygna Suit Cynthia & Kommo-o (Special Striker Poké Fair)
 - Cyrus & Palkia (Special Striker F2P)
-- #### Sync Grids Expansions
+#### Sync Grids Expansions
 - Kukui & Lycanroc
 - Lance & Dragonite
 #### Banners
