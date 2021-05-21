@@ -1,7 +1,7 @@
 # Pokémon Masters EX Content Addition History
 
 ### v1.1.0
-*Version lasted: Late August - Late September 2019*
+*Version lasted: Late August 2019 - Late September 2019*
 #### New Sync Pairs
 - Blue & Pidgeot -> Mega Pidgeot (Special Striker Spotlight)
 - Lyra & Chikorita -> Bayleef -> Meganium (Support Spotlight)
@@ -21,7 +21,7 @@
 - New EX Challenge: Flannery
 
 ### v1.2.0
-*Version lasted: Late September - Late October 2019*
+*Version lasted: Late September 2019 - Late October 2019*
 #### New Sync Pairs
 - Hilda & Tepig -> Pignite -> Emboar (Physical Striker Spotlight)
 - Elesa & Zebstrika (Physical Striker Spotlight)
@@ -38,7 +38,7 @@
 - Grass-Type Training Event
 
 ### v1.3.0
-*Version lasted: Late October - Late November 2019*
+*Version lasted: Late October 2019 - Late November 2019*
 #### New Sync Pairs
 - Caitlin & Reuniclus (Special Striker Spotlight)
 - Glacia & Glalie -> Mega Glalie (Support Spotlight)
@@ -57,7 +57,7 @@
 - Water-Type Training Event
 
 ### v1.4.0
-*Version lasted: Late November - Late December 2019*
+*Version lasted: Late November 2019 - Late December 2019*
 #### New Sync Pairs
 - Grimsley & Liepard (Tech Spotlight)
 - Giovanni & Mewtwo (Special Striker F2P)
@@ -104,7 +104,7 @@
 - Ice-Type Training Event
 
 ### v1.6.0
-*Version lasted: Late January - Late February 2020*
+*Version lasted: Late January 2020 - Late February 2020*
 #### New Sync Pairs
 - Zinnia & Rayquaza (Special Striker F2P)
 - Kukui & Lycanroc (Tech Spotlight)
@@ -127,7 +127,7 @@
 - Team Up With Professor Oak & Mew!
 
 ### v1.7.0
-*Version lasted: Late February - Late March 2020*
+*Version lasted: Late February 2020 - Late March 2020*
 #### New Sync Pairs
 - Valerie & Sylveon (Special Striker F2P)
 - Sygna Suit Red & Charizard -> Mega Charizard X (Special Striker Poké Fair)
@@ -156,7 +156,7 @@
 - Ghost-Type Training Event
 
 ### v1.8.0
-*Version lasted: Late March - Late April*
+*Version lasted: Late March 2020 - Late April 2020*
 #### New Sync Pairs
 - Guzma & Golisopod (Physical Striker Spotlight)
 - Plumeria & Salazzle (Special Striker Spotlight)
@@ -178,7 +178,7 @@
 - Psychic-Type Training Event
 
 ### v1.9.0
-*Version lasted: Late April - Late May 2020*
+*Version lasted: Late April 2020 - Late May 2020*
 #### New Sync Pairs
 - Wallace & Milotic (Tech Spotlight)
 - Silver & Ho-Oh (Physical Striker F2P)
@@ -202,7 +202,7 @@
 - Flying-Type Training Event
 
 ### v1.10.0
-*Version lasted: Late May - Late June 2020*
+*Version lasted: Late May 2020 - Late June 2020*
 #### New Sync Pairs
 - Dawn & Turtwig -> Grotle -> Torterra (Support Spotlight)
 - Sygna Suit Grimsley & Sharpedo -> Mega Sharpedo (Physical Striker Spotlight)
@@ -227,7 +227,7 @@
 - Steel-Type Training Event
 
 ### v1.11.0
-*Version lasted: Late June - Late July 2020*
+*Version lasted: Late June 2020 - Late July 2020*
 #### New Sync Pairs
 - Serena & Fennekin -> Braixen -> Delphox (Tech Spotlight)
 - Lucy & Seviper (Tech Spotlight)
@@ -255,7 +255,7 @@
 - Bug-Type Egg Event
 
 ### v1.12.0
-*Version lasted: Late July - Late August 2020*
+*Version lasted: Late July 2020 - Late August 2020*
 #### New Sync Pairs
 - Steven (Summer 2020) & Sandslash (Physical Striker Seasonal)
 - Lyra (Summer 2020) & Jigglypuff (Special Striker Seasonal)
@@ -278,7 +278,7 @@
 - Legendary Arena: Latios
 
 ### v2.0.0
-*Version lasted: Late August - Late September 2020*
+*Version lasted: Late August 2020 - Late September 2020*
 #### New Sync Pairs
 - Sygna Suit Blue & Blastoise -> Mega Blastoise (Support Poké Fair)
 - Sygna Suit Leaf & Venusaur -> Mega Venusaur (Tech Poké Fair)
@@ -314,7 +314,7 @@
 - Special Event: Blasting Off Again
 
 ### v2.1.0
-*Version lasted: Late September - Late October 2020*
+*Version lasted: Late September 2020 - Late October 2020*
 #### New Sync Pairs
 - Volkner & Luxray (Tech Spotlight)
 - Molayne & Dugtrio (Physical Striker F2P)
@@ -347,7 +347,7 @@
 - Legendary Arena: Latios
 
 ### v2.2.0
-*Version lasted: Late October - Late November 2020*
+*Version lasted: Late October 2020 - Late November 2020*
 #### New Sync Pairs
 - Lisia & Altaria -> Mega Altaria (Tech Spotlight)
 - Alder & Volcarona (Special Striker Poké Fair)
@@ -383,7 +383,7 @@
 - Blissful Bonanza
 
 ### v2.3.0
-*Version lasted: Late November - Late December 2020*
+*Version lasted: Late November 2020 - Late December 2020*
 #### New Sync Pairs
 - Gloria & Zacian (Physical Striker Poké Fair)
 - Skyla (Holiday 2020) & Togekiss (Tech Seasonal)
@@ -450,7 +450,7 @@
 - Blissful Bonanza
 
 ### v2.5.0
-*Version lasted: Late January - Late February 2021*
+*Version lasted: Late January 2021 - Late February 2021*
 #### New Sync Pairs
 - Serena (Palentines 2021) & Whimsicott (Tech Seasonal)
 - Dawn (Palentines 2021) & Alcremie (Tech Seasonal)
@@ -480,7 +480,7 @@
 - Main Story: Interlude 7
 
 ### v2.6.0
-*Version lasted: Late February - Late March 2021*
+*Version lasted: Late February 2021 - Late March 2021*
 #### New Sync Pairs
 - Leon & Charizard (Special Striker Master Fair)
 - Marnie & Morpeko (Tech Poké Fair)
@@ -512,7 +512,7 @@
 - Legendary Arena: Latias
 
 ### v2.7.0
-*Version lasted: Late March - Late April 2021*
+*Version lasted: Late March 2021 - Late April 2021*
 #### New Sync Pairs
 - Burgh (Spring 2021) & Togepi (Support Seasonal)
 - May (Spring 2021) & Lopunny -> Mega Lopunny (Physical Striker Seasonal)
@@ -545,7 +545,7 @@
 - Water and Electric-Type Egg Event
 
 ### v2.8.0
-*Version lasted: Late April - Late May 2021*
+*Version lasted: Late April 2021 - Late May 2021*
 #### New Sync Pairs
 - Raihan & Duraludon (Special Striker Poké Fair)
 - Bea & Sirfetch'd (Physical Striker Spotlight)
@@ -582,4 +582,6 @@
 - Special Event Phase 2: Land and Sea Awaken
 - Story Event: Two Champions
 
-Credits to Jass#0247 on Discord for the raw data
+## Notes
+- Credits to Jass on Discord for the raw data
+- *Version Lasted* means the range of time the specified version was called the "latest" version
