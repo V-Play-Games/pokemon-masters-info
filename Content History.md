@@ -109,7 +109,7 @@
 - Zinnia and Rayquaza (Special Striker F2P)
 - Kukui and Lycanroc (Tech Spotlight)
 - Steven and Metagross -> Mega Metagross (Physical Striker Poké Fair)
-- Proffesor Oak and Mew (Tech F2P)
+- Professor Oak and Mew (Tech F2P)
 #### Sync Grids Expansions
 - Iris and Haxorus
 - Clair and Kingdra
@@ -124,7 +124,7 @@
 - Dragon Type: Training Event
 - Grass Type: Training Event
 - Story Event: The Strongest There Is
-- Team Up With: Proffesor Oak and Mew!
+- Team Up With: Professor Oak and Mew!
 
 ### v1.7.0
 *Version lasted: Late February - Late March 2020*
@@ -304,7 +304,7 @@
 - Guzma and Burgh Spotlight Scout
 - Lillie Spotlight Scout
 #### Events
-- Team Up With: Proffesor Oak and Mew !
+- Team Up With: Professor Oak and Mew !
 - Solo Event: Training with Legends
 - Champion Stadium: Kanto Challenge
 - Battle Villa: Wave 7
@@ -454,7 +454,7 @@
 #### New Sync Pairs
 - Serena (Palentines 2021) and Whimsicott (Tech Seasonal)
 - Dawn (Palentines 2021) and Alcremie (Tech Seasonal)
-- Proffesor Sycamore and Xerneas (Support F2P)
+- Professor Sycamore and Xerneas (Support F2P)
 - Lysandre and Yveltal (Special Striker Poké Fair)
 - Piers and Obstagoon (Support Spotlight)
 #### EX Unlocked
@@ -545,7 +545,7 @@
 - Water- and Electric-Type Egg Event
 
 ### v2.8.0
-*Version lasted: Lte April - Late May 2021*
+*Version lasted: Late April - Late May 2021*
 #### New Sync Pairs
 - Raihan and Duraludon (Special Striker Poké Fair)
 - Bea and Sirfetch'd (Physical Striker Spotlight)
