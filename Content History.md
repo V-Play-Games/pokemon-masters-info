@@ -582,4 +582,4 @@
 - Special Event Phase 2: Land and Sea Awaken
 - Story Event: Two Champions
 
-Credits to Jass on Discord for the raw data
+Credits to Jass#0247 on Discord for the raw data
