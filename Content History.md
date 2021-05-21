@@ -3,9 +3,9 @@
 ### v1.1.0
 *Version lasted: Late August - Late September 2019*
 #### New Sync Pairs
-- Blue and Pidgeot -> Mega Pidgeot (Special Striker Spotlight)
-- Lyra and Chikorita -> Bayleef -> Meganium (Support Spotlight)
-- Hibert and Oshawott -> Dewott -> Samurott (Support Spotlight)
+- Blue & Pidgeot -> Mega Pidgeot (Special Striker Spotlight)
+- Lyra & Chikorita -> Bayleef -> Meganium (Support Spotlight)
+- Hibert & Oshawott -> Dewott -> Samurott (Support Spotlight)
 #### Banners
 - Launch Celebration Scout
 - Blue Spotlight Scout
@@ -23,15 +23,15 @@
 ### v1.2.0
 *Version lasted: Late September - Late October 2019*
 #### New Sync Pairs
-- Hilda and Tepig -> Pignite -> Emboar (Physical Striker Spotlight)
-- Elesa and Zebstrika (Physical Striker Spotlight)
+- Hilda & Tepig -> Pignite -> Emboar (Physical Striker Spotlight)
+- Elesa & Zebstrika (Physical Striker Spotlight)
 #### Banners
 - Hilda Spotlight Scout
 - Featured Type Scout
 - Elesa Spotlight Scout
 - Brendan Spotlight Scout
 #### Events
-- Story Event: The Girl in Black and White
+- Story Event: The Girl in Black & White
 - New EX Challenge: Korrina
 - Electric Type: Training Event
 - New EX Challenge: Pryce
@@ -40,10 +40,10 @@
 ### v1.3.0
 *Version lasted: Late October - Late November 2019*
 #### New Sync Pairs
-- Caitlin and Reuniclus (Special Striker Spotlight)
-- Glacia and Glalie -> Mega Glalie (Support Spotlight)
-- Calem and Meowstic (Tech F2P)
-- Player and Torchic (Support F2P)
+- Caitlin & Reuniclus (Special Striker Spotlight)
+- Glacia & Glalie -> Mega Glalie (Support Spotlight)
+- Calem & Meowstic (Tech F2P)
+- Player & Torchic (Support F2P)
 #### Banners
 - Caitlin Spotlight Scout
 - Phoebe Spotlight Scout
@@ -59,10 +59,10 @@
 ### v1.4.0
 *Version lasted: Late November - Late December 2019*
 #### New Sync Pairs
-- Grimsley and Liepard (Tech Spotlight)
-- Giovanni and Mewtwo (Special Striker F2P)
-- Rosa (Holiday 2019 ) and Delibird (Support Seasonal)
-- Siebold (Holiday 2019) and Octillery (Tech Seasonal)
+- Grimsley & Liepard (Tech Spotlight)
+- Giovanni & Mewtwo (Special Striker F2P)
+- Rosa (Holiday 2019 ) & Delibird (Support Seasonal)
+- Siebold (Holiday 2019) & Octillery (Tech Seasonal)
 #### Banners
 - Grimsley Spotlight Scout
 - Seasonal Scout A
@@ -75,16 +75,16 @@
 ### v1.5.0
 *Version lasted: Late December 2019 - Late January 2020*
 #### New Sync Pairs
-- Lance and Dragonite (Physical Striker Poké Fair)
-- Player and Solgaleo (Physical Striker F2P)
-- Cynthia and Garchomp -> Mega Garchomp (Physical Striker Poké Fair)
-- Ethan and Cyndaquil -> Quilava -> Typhlosion (Special Striker Spotlight)
-- Leaf and Eevee (Support Spotlight)
+- Lance & Dragonite (Physical Striker Poké Fair)
+- Player & Solgaleo (Physical Striker F2P)
+- Cynthia & Garchomp -> Mega Garchomp (Physical Striker Poké Fair)
+- Ethan & Cyndaquil -> Quilava -> Typhlosion (Special Striker Spotlight)
+- Leaf & Eevee (Support Spotlight)
 #### Sync Grids Expansions
-- Player and Pikachu
-- Flint and Infernape
-- Flannery and Torkoal
-- Pryce and Seel
+- Player & Pikachu
+- Flint & Infernape
+- Flannery & Torkoal
+- Pryce & Seel
 #### Banners
 - Grimsley Spotlight Scout
 - Lance Poké Fair Scout
@@ -106,49 +106,49 @@
 ### v1.6.0
 *Version lasted: Late January - Late February 2020*
 #### New Sync Pairs
-- Zinnia and Rayquaza (Special Striker F2P)
-- Kukui and Lycanroc (Tech Spotlight)
-- Steven and Metagross -> Mega Metagross (Physical Striker Poké Fair)
-- Professor Oak and Mew (Tech F2P)
+- Zinnia & Rayquaza (Special Striker F2P)
+- Kukui & Lycanroc (Tech Spotlight)
+- Steven & Metagross -> Mega Metagross (Physical Striker Poké Fair)
+- Professor Oak & Mew (Tech F2P)
 #### Sync Grids Expansions
-- Iris and Haxorus
-- Clair and Kingdra
-- Rosa and Snivy
-- Erika and Vileplume
+- Iris & Haxorus
+- Clair & Kingdra
+- Rosa & Snivy
+- Erika & Vileplume
 #### Banners
 - Kukui Spotlight Scout
-- Brendan and Lyra Spotlight Scout
+- Brendan & Lyra Spotlight Scout
 - Steven Poké Fair Scout
 #### Events
 - Legendary Event: The Dragon That Rules The Sky
 - Dragon Type: Training Event
 - Grass Type: Training Event
 - Story Event: The Strongest There Is
-- Team Up With: Professor Oak and Mew!
+- Team Up With: Professor Oak & Mew!
 
 ### v1.7.0
 *Version lasted: Late February - Late March 2020*
 #### New Sync Pairs
-- Valerie and Sylveon (Special Striker F2P)
-- Sygna Suit Red and Charizard -> Mega Charizard X (Special Striker Poké Fair)
-- Sygna Suit Elesa and Rotom (Support Spotlight)
-- Sabrina and Alakazam -> Mega Alakazam (Support Spotlight)
-- Fantina and Mismagius (Special Striker Spotlight)
+- Valerie & Sylveon (Special Striker F2P)
+- Sygna Suit Red & Charizard -> Mega Charizard X (Special Striker Poké Fair)
+- Sygna Suit Elesa & Rotom (Support Spotlight)
+- Sabrina & Alakazam -> Mega Alakazam (Support Spotlight)
+- Fantina & Mismagius (Special Striker Spotlight)
 #### Sync Grids Expansions
-- Hau and Raichu
-- Karen and Houndoom
-- Grimsley and Liepard
-- Acerola and Palossand
+- Hau & Raichu
+- Karen & Houndoom
+- Grimsley & Liepard
+- Acerola & Palossand
 #### Banners
 - 5star️ Select Special Scout
 - Sygna Suit Elesa Spotlight Scout
 - Sygna Suit Red Poké Fair Scout
-- Grimsley and Karen Spotlight Scout
+- Grimsley & Karen Spotlight Scout
 - Sabrina Spotlight Scout
 - Fantina Spotlight Scout
 #### Events
 - Main Story: Chapters 22 - 24
-- New Evolution Sync Pair Stories !
+- New Evolution Sync Pair Stories!
 - Battle Villa: Wave 1
 - Story Event: Shining Star
 - Electric Type: Training Event
@@ -158,36 +158,36 @@
 ### v1.8.0
 *Version lasted: Late March - Late April*
 #### New Sync Pairs
-- Guzma and Golisopod (Physical Striker Spotlight)
-- Plumeria and Salazzle (Special Striker Spotlight)
-- Clemont and Heliolisk (Tech Spotlight)
+- Guzma & Golisopod (Physical Striker Spotlight)
+- Plumeria & Salazzle (Special Striker Spotlight)
+- Clemont & Heliolisk (Tech Spotlight)
 - #### Sync Grids Expansions
-- Viola and Surskit
-- Caitlin and Reuniclus
-- Calem and Meowstic
+- Viola & Surskit
+- Caitlin & Reuniclus
+- Calem & Meowstic
 #### Banners
-- Guzma and Plumeria Spotlight Scout
+- Guzma & Plumeria Spotlight Scout
 - Clemont Spotlight Scout
 - Caitlin Spotlight Scout
 #### Events
 - Story Event: Team Skull Crash Course
 - Bug Type: Training Event
 - Legendary Event: The Beast That Devours The Sun
-- Solo Event: Flying Types Incoming !
+- Solo Event: Flying Types Incoming!
 - Battle Villa Wave 2
 - Psychic Type: Training Event
 
 ### v1.9.0
 *Version lasted: Late April - Late May 2020*
 #### New Sync Pairs
-- Wallace and Milotic (Tech Spotlight)
-- Silver and Ho-Oh (Physical Striker F2P)
-- Wally and Gallade -> Mega Gallade (Physical Striker Spotlight)
-- Jasmine and Steelix -> Mega Steelix (Support Spotlight)
+- Wallace & Milotic (Tech Spotlight)
+- Silver & Ho-Oh (Physical Striker F2P)
+- Wally & Gallade -> Mega Gallade (Physical Striker Spotlight)
+- Jasmine & Steelix -> Mega Steelix (Support Spotlight)
 #### Sync Grid Expansions
-- Cynthia and Garchomp
-- Korrina and Lucario
-- Skyla and Swanna
+- Cynthia & Garchomp
+- Korrina & Lucario
+- Skyla & Swanna
 #### Banners
 - Wallace Spotlight Scout
 - Cynthia Poké Fair Scout
@@ -195,7 +195,7 @@
 - Wally Spotlight Scout
 - Jasmine Spotlight Scout
 #### Events
-- Legendary Event: Pure Hearts and Rainbow Wings
+- Legendary Event: Pure Hearts & Rainbow Wings
 - Blissful: Bonanza
 - Fighting Type: Training Event
 - Battle Villa: Wave 3
@@ -204,13 +204,13 @@
 ### v1.10.0
 *Version lasted: Late May - Late June 2020*
 #### New Sync Pairs
-- Dawn and Turtwig -> Grotle -> Torterra (Support Spotlight)
-- Sygna Suit Grimsley and Sharpedo -> Mega Sharpedo (Physical Striker Spotlight)
-- Burgh and Leavanny (Special Striker Spotlight)
+- Dawn & Turtwig -> Grotle -> Torterra (Support Spotlight)
+- Sygna Suit Grimsley & Sharpedo -> Mega Sharpedo (Physical Striker Spotlight)
+- Burgh & Leavanny (Special Striker Spotlight)
 #### Sync Grids Expansions
-- Misty and Starmie
-- Barry and Piplup
-- Steven and Metagross
+- Misty & Starmie
+- Barry & Piplup
+- Steven & Metagross
 #### Banners
 - Dawn Spotlight Scout
 - Double Feature Spotlight Scout
@@ -220,32 +220,32 @@
 - Story Event: The Star of The Contest
 - Battle Villa: Wave 4
 - Water Type: Training Event
-- Main Story: New Chapters !
+- Main Story: New Chapters!
 - Legendary Arena: Entei
 - Story Event: The Importance of Elegance
-- Special Event: Challenge Unova !
+- Special Event: Challenge Unova!
 - Steel Type: Training Event
 
 ### v1.11.0
 *Version lasted: Late June - Late July 2020*
 #### New Sync Pairs
-- Serena and Fennekin -> Braixen -> Delphox (Tech Spotlight)
-- Lucy and Seviper (Tech Spotlight)
-- Morty and Drifblim (Physical Striker Spotlight)
+- Serena & Fennekin -> Braixen -> Delphox (Tech Spotlight)
+- Lucy & Seviper (Tech Spotlight)
+- Morty & Drifblim (Physical Striker Spotlight)
 #### Sync Grids Expansions
-- Hilda and Tepig
-- Koga and Crobat
+- Hilda & Tepig
+- Koga & Crobat
 #### Banners
 - Serena Spotlight Scout
-- 5star️ Select Scout Limited Time Only !
-- Hilda and Ethan Spotlight Scout
+- 5star️ Select Scout Limited Time Only!
+- Hilda & Ethan Spotlight Scout
 - 5star️ Select Special Scout
-- Plumeria and Lucy Spotlight Scout
+- Plumeria & Lucy Spotlight Scout
 - Morty Spotlight Scout
-- Fantina and Phoebe Spotlight Scout
+- Fantina & Phoebe Spotlight Scout
 - Guzma Spotlight Scout
 #### Events
-- Story Event: Serena's Dessert Party !
+- Story Event: Serena's Dessert Party!
 - Fire Type: Training Event
 - Battle Villa: Wave 5
 - Legendary Arena: Cobalion
@@ -257,17 +257,17 @@
 ### v1.12.0
 *Version lasted: Late July - Late August 2020*
 #### New Sync Pairs
-- Steven (Summer 2020) and Sandslash (Physical Striker Seasonal)
-- Lyra (Summer 2020) and Jigglypuff (Special Striker Seasonal)
-- Sygna Suit Cynthia and Kommo-o (Special Striker Poké Fair)
-- Cyrus and Palkia (Special Striker F2P)
+- Steven (Summer 2020) & Sandslash (Physical Striker Seasonal)
+- Lyra (Summer 2020) & Jigglypuff (Special Striker Seasonal)
+- Sygna Suit Cynthia & Kommo-o (Special Striker Poké Fair)
+- Cyrus & Palkia (Special Striker F2P)
 - #### Sync Grids Expansions
-- Kukui and Lycanroc
-- Lance and Dragonite
+- Kukui & Lycanroc
+- Lance & Dragonite
 #### Banners
 - Lyra Seasonal Scout
 - Steven Seasonal Scout
-- Kukui and Olivia Spotlight Scout
+- Kukui & Olivia Spotlight Scout
 - Sygna Suit Cynthia Poké Fair Scout
 - Lance Poké Fair Scout
 #### Events
@@ -280,35 +280,35 @@
 ### v2.0.0
 *Version lasted: Late August - Late September 2020*
 #### New Sync Pairs
-- Sygna Suit Blue and Blastoise -> Mega Blastoise (Support Poké Fair)
-- Sygna Suit Leaf and Venusaur -> Mega Venusaur (Tech Poké Fair)
-- Lusamine and Pheromosa (Special Striker Spotlight)
-- Lillie and Clefairy (Support Spotlight)
-- Gladion and Silvally (Tech Spotlight)
-- James and Weezing (Tech F2P)
-#### EX Unlocked / Sync Grids Expansions
-- Rosa and Snivy (EX Unlocked)
-- Sygna Suit Red and Charizard (EX Unlocked)
-- Ethan and Cyndaquil (Sync Grid Expansion)
-- Kris and Tototile (Sync Grid Expansion)
-- Lyra and Chikorita (Sync Grid Expansion)
+- Sygna Suit Blue & Blastoise -> Mega Blastoise (Support Poké Fair)
+- Sygna Suit Leaf & Venusaur -> Mega Venusaur (Tech Poké Fair)
+- Lusamine & Pheromosa (Special Striker Spotlight)
+- Lillie & Clefairy (Support Spotlight)
+- Gladion & Silvally (Tech Spotlight)
+- James & Weezing (Tech F2P)
+#### EX Unlocked & Sync Grids Expansions
+- Rosa & Snivy (EX Unlocked)
+- Sygna Suit Red & Charizard (EX Unlocked)
+- Ethan & Cyndaquil (Sync Grid Expansion)
+- Kris & Tototile (Sync Grid Expansion)
+- Lyra & Chikorita (Sync Grid Expansion)
 #### Banners
 - Sygna Suit Blue Poké Fair Scout
 - Sygna Suit Leaf Poké Fair Scout
 - Sygna Suit Red Poké Fair Scout
 - 5star️ Select Special Scout x11
-- Ethan, Kris and Lyra Spotlight Scout
+- Ethan, Kris & Lyra Spotlight Scout
 - Lusamine Spotlight Scout
 - Gladion Spotlight Scout
-- Sabrina and Caitlin Spotlight Scout
-- Guzma and Burgh Spotlight Scout
+- Sabrina & Caitlin Spotlight Scout
+- Guzma & Burgh Spotlight Scout
 - Lillie Spotlight Scout
 #### Events
-- Team Up With: Professor Oak and Mew !
+- Team Up With: Professor Oak & Mew!
 - Solo Event: Training with Legends
 - Champion Stadium: Kanto Challenge
 - Battle Villa: Wave 7
-- Grass, Fire and Water Type: Egg Event
+- Grass, Fire & Water Type: Egg Event
 - Story Event: Family Ties
 - Legendary Arena: Azelf
 - Special Event: Blasting Off Again
@@ -316,25 +316,25 @@
 ### v2.1.0
 *Version lasted: Late September - Late October 2020*
 #### New Sync Pairs
-- Volkner and Luxray (Tech Spotlight)
-- Molayne and Dugtrio (Physical Striker F2P)
-- Hilbert (Fall 2020) and Mightyena (Physical Striker Seasonal)
-- Acerola (Fall 2020) and Mimikyu (Tech Seasonal)
-#### EX Unlocked / Sync Grid Expansions
-- Elesa and Zebstrika (EX Unlocked / Sync Grid Expansion)
-- Sygna Suit Grimsley and Sharpedo (EX Unlocked)
-- Fantina and Mismagius (Sync Grid Expansion)
-- Morty and Drifblim (EX Unlocked)
-- Glacia and Glalie (Sync Grid Expansion)
-- Wally and Gallade (EX Unlocked)
+- Volkner & Luxray (Tech Spotlight)
+- Molayne & Dugtrio (Physical Striker F2P)
+- Hilbert (Fall 2020) & Mightyena (Physical Striker Seasonal)
+- Acerola (Fall 2020) & Mimikyu (Tech Seasonal)
+#### EX Unlocked & Sync Grid Expansions
+- Elesa & Zebstrika (EX Unlocked & Sync Grid Expansion)
+- Sygna Suit Grimsley & Sharpedo (EX Unlocked)
+- Fantina & Mismagius (Sync Grid Expansion)
+- Morty & Drifblim (EX Unlocked)
+- Glacia & Glalie (Sync Grid Expansion)
+- Wally & Gallade (EX Unlocked)
 #### Banners
 - Volkner Spotlight Scout
-- Elesa and Clemont Spotlight Scout
-- Wallace and Sygna Suit Grimsley Spotlight Scout
+- Elesa & Clemont Spotlight Scout
+- Wallace & Sygna Suit Grimsley Spotlight Scout
 - Acerola Seasonal Scout
 - Hilbert Seasonal Scout
-- Morty and Fantina Spotlight Scout
-- Wally and Glacia Spotlight Scout
+- Morty & Fantina Spotlight Scout
+- Wally & Glacia Spotlight Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: The Eccentric Electrician
@@ -343,41 +343,41 @@
 - Main Story: Chapter 28 + Interlude 6
 - Story Event: Fight or Fright
 - Legendary Arena: Cobalion
-- Ice and Fighting Type: Egg Event
+- Ice & Fighting Type: Egg Event
 - Legendary Arena: Latios
 
 ### v2.2.0
 *Version lasted: Late October - Late November 2020*
 #### New Sync Pairs
-- Lisia and Altaria -> Mega Altaria (Tech Spotlight)
-- Alder and Volcarona (Special Striker Poké Fair)
-- Nate and Braviary (Physical Striker Spotlight)
-- Bianca and Musharna (Tech Spotlight)
-#### EX Unlocked / Sync Grids Expansions
-- Rosa (Holiday 2019) and Delibird (EX Unlocked / Sync Grid Expansion)
-- Siebold (Holiday 2019) and Octillery (Sync Grid Expansion)
-- Olivia and Lycanroc (Sync Grid Expansion)
-- Blue and Pidgeot (EX Unlocked / Sync Grid Expansion)
-- Cynthia and Garchomp (EX Unlocked)
-- Steven and Metagross (EX Unlocked)
+- Lisia & Altaria -> Mega Altaria (Tech Spotlight)
+- Alder & Volcarona (Special Striker Poké Fair)
+- Nate & Braviary (Physical Striker Spotlight)
+- Bianca & Musharna (Tech Spotlight)
+#### EX Unlocked & Sync Grids Expansions
+- Rosa (Holiday 2019) & Delibird (EX Unlocked & Sync Grid Expansion)
+- Siebold (Holiday 2019) & Octillery (Sync Grid Expansion)
+- Olivia & Lycanroc (Sync Grid Expansion)
+- Blue & Pidgeot (EX Unlocked & Sync Grid Expansion)
+- Cynthia & Garchomp (EX Unlocked)
+- Steven & Metagross (EX Unlocked)
 #### Banners
 - Lisia Spotlight Scout
-- Olivia and Kukui Spotlight Scout
+- Olivia & Kukui Spotlight Scout
 - Plumeria Spotlight Scout
 - Alder Poké Fair Scout
 - Blue Spotlight Scout
 - Nate Spotlight Scout
 - Bianca Spotlight Scout
-- Rosa and Siebold Seasonal Scout
+- Rosa & Siebold Seasonal Scout
 - 5star️ Select Special Scout x11
-- Cynthia and Steven Poké Fair Scout
+- Cynthia & Steven Poké Fair Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: Dazzling Dizzying Battle Stage
 - Legendary Event: The Dragon That Rules The Sky
-- Psychic and Poison Type: Egg Event
+- Psychic & Poison Type: Egg Event
 - Legendary Arena: Tapu Bulu
-- Time Trial Event: Race To Victory !
+- Time Trial Event: Race To Victory!
 - Battle Villa: Season 9
 - Main Story: Chapter 27
 - Blissful: Bonanza
@@ -385,18 +385,18 @@
 ### v2.3.0
 *Version lasted: Late November - Late December 2020*
 #### New Sync Pairs
-- Gloria and Zacian (Physical Striker Poké Fair)
-- Skyla (Holiday 2020) and Togekiss (Tech Seasonal)
-- Erika (Holiday 2020) and Comfey (Support Seasonal)
-#### EX Unlocked / Sync Grid Expansions
-- Iris and Haxorus (EX Unlocked)
-- Jasmine and Steelix (EX Unlocked)
-- Dawn and Turtwig (EX Unlocked)
-- Brendan and Treecko (EX Unlocked / Sync Grid Expansion)
+- Gloria & Zacian (Physical Striker Poké Fair)
+- Skyla (Holiday 2020) & Togekiss (Tech Seasonal)
+- Erika (Holiday 2020) & Comfey (Support Seasonal)
+#### EX Unlocked & Sync Grid Expansions
+- Iris & Haxorus (EX Unlocked)
+- Jasmine & Steelix (EX Unlocked)
+- Dawn & Turtwig (EX Unlocked)
+- Brendan & Treecko (EX Unlocked & Sync Grid Expansion)
 #### Banners
 - Gloria Poké Fair Scout
 - Jasmine Spotlight Scout
-- Dawn and Brendan Spotlight Scout
+- Dawn & Brendan Spotlight Scout
 - Skyla Seasonal Tiered Scout
 - Erika Seasonal Tiered Scout
 - Triple Feature Poké Fair Scout
@@ -407,90 +407,90 @@
 - Legendary Event: The Beast That Devours The Sun
 - Story Event: Deck The Halls
 - Battle Villa: Season 10
-- Fire, Rock and Bug Type: Egg Event
+- Fire, Rock & Bug Type: Egg Event
 - Special Event: Double Trouble
 
 ### v2.4.0
 *Version lasted: Late December 2020 - Late January 2021*
 #### New Sync Pairs
-- N and Zekrom (Physical Striker Poké Fair)
-- Lance (New Year 2021) and Gyarados (Physical Striker Seasonal)
-- Lillie (New Year 2021) and Ribombee (Support Seasonal)
-- May and Mudkip -> Marshtomp -> Swampert -> Mega Swampert (Tech Spotlight)
-- Mallow and Tsareena (Tech Spotlight)
-#### EX Unlocked / Sync Grid Expansions
-- Phoebe and Dusclops (Sync Grid Expansion)
-- Sygna Suit Elesa and Rotom (EX Unlocked)
-- Wallace and Milotic (EX Unlocked)
+- N & Zekrom (Physical Striker Poké Fair)
+- Lance (New Year 2021) & Gyarados (Physical Striker Seasonal)
+- Lillie (New Year 2021) & Ribombee (Support Seasonal)
+- May & Mudkip -> Marshtomp -> Swampert -> Mega Swampert (Tech Spotlight)
+- Mallow & Tsareena (Tech Spotlight)
+#### EX Unlocked & Sync Grid Expansions
+- Phoebe & Dusclops (Sync Grid Expansion)
+- Sygna Suit Elesa & Rotom (EX Unlocked)
+- Wallace & Milotic (EX Unlocked)
 #### Banners
 - N Poké Fair Scout
-- Kanto and Johto 5star️ Guaranteed Scout
-- Hoenn and Sinnoh 5star️ Guaranteed Scout
+- Kanto & Johto 5star️ Guaranteed Scout
+- Hoenn & Sinnoh 5star️ Guaranteed Scout
 - Unova 5star️ Guaranteed Scout
-- Kalos and Alola 5star️ Guaranteed Scout
+- Kalos & Alola 5star️ Guaranteed Scout
 - Lance Seasonal Tiered Scout
 - Lillie Seasonal Tiered Scout
 - 5star️ Select Special Scout x15
 - 5star️ Select Special Scout x25
 - Double Feature Spotlight Scout
-- Lisia, Wally and Phoebe Spotlight Scout
+- Lisia, Wally & Phoebe Spotlight Scout
 - May Spotlight Scout
-- Wallace and Sygna Suit Grimsley Spotlight Scout
+- Wallace & Sygna Suit Grimsley Spotlight Scout
 - Mallow Spotlight Scout
 #### Events
 - Champion Stadium: Johto Challenge
 - Story Event: The Ideal Formula
 - Legendary Arena: Latios
 - Story Event: Season's Greetings
-- Legendary Event: Pure Hearts and Rainbow Wings
+- Legendary Event: Pure Hearts & Rainbow Wings
 - Battle Villa: Season 11
-- Electric and Steel Type: Egg Event
+- Electric & Steel Type: Egg Event
 - Legendary Arena: Entei
-- Solo Event: Team - Hoenn Unite !
+- Solo Event: Team - Hoenn Unite!
 - Blissful: Bonanza
 
 ### v2.5.0
 *Version lasted: Late January - Late February 2021*
 #### New Sync Pairs
-- Serena (Palentines 2021) and Whimsicott (Tech Seasonal)
-- Dawn (Palentines 2021) and Alcremie (Tech Seasonal)
-- Professor Sycamore and Xerneas (Support F2P)
-- Lysandre and Yveltal (Special Striker Poké Fair)
-- Piers and Obstagoon (Support Spotlight)
+- Serena (Palentines 2021) & Whimsicott (Tech Seasonal)
+- Dawn (Palentines 2021) & Alcremie (Tech Seasonal)
+- Professor Sycamore & Xerneas (Support F2P)
+- Lysandre & Yveltal (Special Striker Poké Fair)
+- Piers & Obstagoon (Support Spotlight)
 #### EX Unlocked
-- Serena and Fennekin
-- Lance and Dragonite
-- Sygna Suit Cynthia and Kommo-o
+- Serena & Fennekin
+- Lance & Dragonite
+- Sygna Suit Cynthia & Kommo-o
 #### Banners
 - Serena Seasonal Tiered Scout
 - Lillie Spotlight Scout
 - Dawn Seasonal Tiered Scout
-- Grimsley and Karen Spotlight Scout
+- Grimsley & Karen Spotlight Scout
 - Lysandre Poké Fair Scout
-- Serena and Clemont Spotlight Scout
+- Serena & Clemont Spotlight Scout
 - Piers Spotlight Scout
 #### Events
 - Champion Stadium: Kanto Challenge
 - Story Event: Baking Buddies
-- Fighting, Grass and Rock Type: Egg Event
+- Fighting, Grass & Rock Type: Egg Event
 - Battle Villa: Season 12
 - Legendary Event: Lurking Shadow
-- Legendary Event: Give and Take
+- Legendary Event: Give & Take
 - Legendary Arena: Cresselia
 - Main Story: Interlude 7
 
 ### v2.6.0
 *Version lasted: Late February - Late March 2021*
 #### New Sync Pairs
-- Leon and Charizard (Special Striker Master Fair)
-- Marnie and Morpeko (Tech Poké Fair)
-- Iris (Champion) and Hydreigon (Tech Poké Fair)
-- Diantha and Gardevoir -> Mega Gardevoir (Special Striker Poké Fair)
-#### EX Unlocked / Sync Grid Expansions
-- Skyla and Swanna (EX Unlocked)
-- Korrina and Lucario (EX Unlocked)
-- Cyrus and Palkia (Sync Grid Expansion)
-- Hilbert and Oshawott (EX Unlocked / Sync Grid Expansion)
+- Leon & Charizard (Special Striker Master Fair)
+- Marnie & Morpeko (Tech Poké Fair)
+- Iris (Champion) & Hydreigon (Tech Poké Fair)
+- Diantha & Gardevoir -> Mega Gardevoir (Special Striker Poké Fair)
+#### EX Unlocked & Sync Grid Expansions
+- Skyla & Swanna (EX Unlocked)
+- Korrina & Lucario (EX Unlocked)
+- Cyrus & Palkia (Sync Grid Expansion)
+- Hilbert & Oshawott (EX Unlocked & Sync Grid Expansion)
 #### Banners
 - Leon Master Fair Scout
 - Marnie Poké Fair Scout
@@ -498,43 +498,43 @@
 - Gloria Poké Fair Scout
 - Lisia Spotlight Scout
 - Iris (Champion) Poké Fair Scout
-- Hilbert and Caitlin Spotlight Scout
+- Hilbert & Caitlin Spotlight Scout
 - Diantha Poké Fair Scout
 #### Events
 - Champion Stadium: Johto Challenge
-- Story Event: Champion Time !
-- Solo Event: Yell and Dream
+- Story Event: Champion Time!
+- Solo Event: Yell & Dream
 - Battle Villa: Season 13
 - Legendary Event: New World Dilemma
 - Story Event: Shining Hearts of Dragons
 - Blissful: Bonanza
-- Fairy and Normal Type: Egg Event
+- Fairy & Normal Type: Egg Event
 - Legendary Arena: Latias
 
 ### v2.7.0
 *Version lasted: Late March - Late April 2021*
 #### New Sync Pairs
-- Burgh (Spring 2021) and Togepi (Support Seasonal)
-- May (Spring 2021) and Lopunny -> Mega Lopunny (Physical Striker Seasonal)
-- Elio and Popplio -> Brionne -> Primarina (Support Spotlight)
-- Selene and Rowlet -> Dartrix -> Decidueye (Physical Striker Spotlight)
-#### EX Unlocked / Sync Grid Expansions
-- Leaf and Eevee (EX Unlocked / Sync Grid Expansion)
-- Zinnia and Rayquaza (Sync Grid Expansion)
-- Guzma and Golisopod (EX Unlocked)
-- Barry and Piplup (EX Unlocked)
+- Burgh (Spring 2021) & Togepi (Support Seasonal)
+- May (Spring 2021) & Lopunny -> Mega Lopunny (Physical Striker Seasonal)
+- Elio & Popplio -> Brionne -> Primarina (Support Spotlight)
+- Selene & Rowlet -> Dartrix -> Decidueye (Physical Striker Spotlight)
+#### EX Unlocked & Sync Grid Expansions
+- Leaf & Eevee (EX Unlocked & Sync Grid Expansion)
+- Zinnia & Rayquaza (Sync Grid Expansion)
+- Guzma & Golisopod (EX Unlocked)
+- Barry & Piplup (EX Unlocked)
 #### Banners
 - May Seasonal Tiered Scout
 - Burgh Seasonal Tiered Scout
-- Leaf and Gladion Spotlight Scout
-- May and Brendan Spotlight Scout
+- Leaf & Gladion Spotlight Scout
+- May & Brendan Spotlight Scout
 - Selene Spotlight Scout
 - Elio Spotlight Scout
-- Guzma and Burgh Spotlight Scout
+- Guzma & Burgh Spotlight Scout
 - N Poké Fair Scout
 - Double Feature Spotlight Scout
 #### Events
-- Special Event: Happy Team Break Day !
+- Special Event: Happy Team Break Day!
 - Story Event: Pasio's Eggsplorers
 - Champion Stadium: Unova Challenge
 - Main Story: Chapter 28
@@ -542,21 +542,21 @@
 - Battle Villa: Season 14
 - Story Event: Trial's on The Isle
 - Legendary Arena: Tornadus
-- Water- and Electric-Type Egg Event
+- Water- & Electric-Type Egg Event
 
 ### v2.8.0
 *Version lasted: Late April - Late May 2021*
 #### New Sync Pairs
-- Raihan and Duraludon (Special Striker Poké Fair)
-- Bea and Sirfetch'd (Physical Striker Spotlight)
-- Nessa and Drednaw (Tech Spotlight)
-- Ghetsis and Kyurem (Tech F2P)
+- Raihan & Duraludon (Special Striker Poké Fair)
+- Bea & Sirfetch'd (Physical Striker Spotlight)
+- Nessa & Drednaw (Tech Spotlight)
+- Ghetsis & Kyurem (Tech F2P)
 #### EX Style Unlocked/Sync Grids Expansions
-- Silver and Ho-oh (Sync Grid Expansion)
-- Burgh and Leavanny (EX Style Unlocked)
-- Grimsley and Liepard (EX Style Unlocked)
-- Ethan and Cyndaquil (EX Style Unlocked)
-- Hilda and Tepig (EX Style Unlocked)
+- Silver & Ho-oh (Sync Grid Expansion)
+- Burgh & Leavanny (EX Style Unlocked)
+- Grimsley & Liepard (EX Style Unlocked)
+- Ethan & Cyndaquil (EX Style Unlocked)
+- Hilda & Tepig (EX Style Unlocked)
 #### Banners
 - Raihan Poké Fair Scout
 - 5star️ Special Scout x11
@@ -565,7 +565,7 @@
 - Piers Spotlight Scout
 - Nessa Spotlight Scout
 - Bea Spotlight Scout
-- Serena, Hilda and Ethan Spotlight Scout
+- Serena, Hilda & Ethan Spotlight Scout
 - Super Spotlight Poké Fair Scout
 #### Events
 - Time Trial Event - Eternal Rivals
@@ -575,11 +575,11 @@
 - Legendary Event - Father or Foe
 - Special Event Phase 1 - Weather Alert
 - Legendary Arena - Azelf
-- Solo Event - Splash and Punch
-- Legendary Event - Pure Hearts and Rainbow Wings
+- Solo Event - Splash & Punch
+- Legendary Event - Pure Hearts & Rainbow Wings
 - Fire Type - Egg Event
 - Legendary Arena - Cobalion
-- Special Event Phase 2 - Land and Sea Awaken
+- Special Event Phase 2 - Land & Sea Awaken
 - Story Event - Two Champions
 
 Credits to Jass on Discord for the raw data
