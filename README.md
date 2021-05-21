@@ -3,7 +3,7 @@
 PMID is a project which aims to put data about the game Pokémon Masters EX at one place.
 ## Index
 Here's the index of what data has been collected so far:
-1. Content Addition History
+1. [Content Addition History](https://github.com/V-Play-Games/pokemon-masters-info/blob/release/Content%20History.md)
 ## Plans
 The following has been planned to be added in the future:
 - Sync Pair Data
