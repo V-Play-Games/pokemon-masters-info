@@ -602,13 +602,13 @@ Current Version: [v2.9.0](#v290)
 - Zinnia & Salamence (Tech F2P)
 - Karen & Umbreon (Physical Striker Spotlight)
 #### EX Style Unlocked and Sync Grid Expansions
-- Plumeria and Salazzle ( EX Style Unlocked )
-- Player and Solgaleo ( Sync Grid Expansion )
+- Plumeria and Salazzle (EX Style Unlocked)
+- Player and Solgaleo (Sync Grid Expansion)
 #### Banners
 - Maxie Master Fair Scout
 - Archie Master Fair Scout
 - Hoenn 5star️ Guaranteed Scout
-- 5:️star: Select Special Scout x11
+- 5:star: Select Special Scout x11
 - Triple Feature Spotlight Scout
 - Triple Feature Spotlight Scout
 - Lana Spotlight Scout
