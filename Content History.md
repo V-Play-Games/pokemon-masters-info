@@ -1,6 +1,6 @@
 # Pokémon Masters EX Content Addition History
 
-Current Version: [v2.9.0](#v2.9.0)
+Current Version: [v2.9.0](#v290)
 
 ### v1.1.0
 *Version lasted: Late August 2019 - Late September 2019*
