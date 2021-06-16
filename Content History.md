@@ -1,5 +1,7 @@
 # Pokémon Masters EX Content Addition History
 
+Current Version: [v2.9.0](#v2.9.0)
+
 ### v1.1.0
 *Version lasted: Late August 2019 - Late September 2019*
 #### New Sync Pairs
@@ -551,7 +553,7 @@
 - Bea & Sirfetch'd (Physical Striker Spotlight)
 - Nessa & Drednaw (Tech Spotlight)
 - Ghetsis & Kyurem (Tech F2P)
-#### EX Style Unlocked and Sync Grids Expansions
+#### EX Style Unlocked and Sync Grid Expansions
 - Silver & Ho-oh (Sync Grid Expansion)
 - Burgh & Leavanny (EX Style Unlocked)
 - Grimsley & Liepard (EX Style Unlocked)
@@ -582,6 +584,51 @@
 - Special Event Phase 2: Land and Sea Awaken
 - Story Event: Two Champions
 
+### v2.9.0
+*Version Lasted: Late May 2021 - Late June 2021*
+#### New Sync Pairs
+- Maxie & Groudon (Physical Striker Master Fair)
+- Archie & Kyogre (Special Striker Master Fair)
+- Lana & Araquanid (Support Spotlight)
+- Kiawe & Alolan Marowak (Support Spotlight)
+- Hala & Crabominable (Physical Striker Spotlight)
+- The Masked Royal & Incineroar (Tech Spotlight)
+#### New BP Sync Pairs
+- Player and Cobalion (Support F2P)
+- Player & Regirock (Support F2P)
+- Lt. Surge & Raichu (Support F2P)
+- Morty & Mismagius (Support F2P)
+- Erika & Tangela (Tech F2P)
+- Zinnia & Salamence (Tech F2P)
+- Karen & Umbreon (Physical Striker Spotlight)
+#### EX Style Unlocked and Sync Grid Expansions
+- Plumeria and Salazzle ( EX Style Unlocked )
+- Player and Solgaleo ( Sync Grid Expansion )
+#### Banners
+- Maxie Master Fair Scout
+- Archie Master Fair Scout
+- Hoenn 5star️ Guaranteed Scout
+- 5:️star: Select Special Scout x11
+- Triple Feature Spotlight Scout
+- Triple Feature Spotlight Scout
+- Lana Spotlight Scout
+- Kiawe Spotlight Scout
+- Hala Spotlight Scout
+- The Masked Royal Spotlight Scout
+#### Events
+- Story Event: Masters of Land and Sea
+- Champion Stadium: Johto Challenge
+- Battle Villa: Season 16
+- Legendary Event: The Beast That Devours The Sun
+- Extreme Battle Event: Ancient Brawl
+- Grass and Poison Type Egg Event
+- Story Event: The Star of the Contest
+- Solo Event: Town Square Street Fair
+- Legendary Arena: Entei's Challenge
+- Legendary Arena: Regirock's Challenge
+- Battle Point Challenge: Daily Region Rotation
+- Main Story: Chapter 29
+
 ## Notes
-- Credits to Jass on Discord for the raw data
+- Credits to Jass#0247 on Discord for the raw data
 - *Version Lasted* means the range of time the specified version was called the "latest" version
